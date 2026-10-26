@@ -1,0 +1,6 @@
+{
+  "name": "Sanaa DR Boutique — Oran, Algérie",
+  "description": "Boutique de mode et beauté à Oran : robes tendance (450 DA), casquettes (1000 DA), faux ongles (500 DA). Commande directe WhatsApp 0553923609 et livraison 58 wilayas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
